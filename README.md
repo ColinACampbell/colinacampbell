@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Colin Campbell</h1>
 <h3 align="center">Full-stack dev who mostly loves the back-end</h3>
 
-- 👨‍💻 All of my projects are available at [https://colin.eazley.tech](https://colin.eazley.tech)
+<!-- - 👨‍💻 All of my projects are available at [https://colin.eazley.tech](https://colin.eazley.tech) -->
 
 - 📫 How to reach me **colina.campbell.jr@gmail.com**
 
